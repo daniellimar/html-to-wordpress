@@ -1,0 +1,156 @@
+[20-Feb-2023 03:44:00 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\danie\Local Sites\daniel\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[20-Feb-2023 03:47:26 UTC] PHP Fatal error:  Uncaught ArgumentCountError: get_headers() expects at least 1 argument, 0 given in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php(1): get_headers()
+#1 C:\Users\danie\Local Sites\daniel\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\danie\\...')
+#2 C:\Users\danie\Local Sites\daniel\app\public\wp-blog-header.php(19): require_once('C:\\Users\\danie\\...')
+#3 C:\Users\danie\Local Sites\daniel\app\public\index.php(17): require('C:\\Users\\danie\\...')
+#4 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:06:46 UTC] PHP Parse error:  syntax error, unexpected identifier "daniel_styles" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 3
+[20-Feb-2023 04:06:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\danie\Local Sites\daniel\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 372
+[20-Feb-2023 04:06:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\danie\Local Sites\daniel\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 373
+[20-Feb-2023 04:08:47 UTC] PHP Parse error:  syntax error, unexpected identifier "daniel_styles" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 3
+[20-Feb-2023 04:09:48 UTC] PHP Parse error:  syntax error, unexpected identifier "daniel_styles" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 3
+[20-Feb-2023 04:09:52 UTC] PHP Parse error:  syntax error, unexpected identifier "daniel_styles" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 3
+[20-Feb-2023 04:09:53 UTC] PHP Parse error:  syntax error, unexpected identifier "daniel_styles" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 3
+[20-Feb-2023 04:10:09 UTC] PHP Parse error:  syntax error, unexpected identifier "daniel_styles" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 3
+[20-Feb-2023 04:10:09 UTC] PHP Parse error:  syntax error, unexpected identifier "daniel_styles" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 3
+[20-Feb-2023 04:10:16 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:16 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:18 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:18 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:18 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:18 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:18 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:18 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:19 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:19 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:19 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:19 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:19 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:19 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:19 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:19 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:19 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:20 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:25 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:28 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:28 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:29 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\functions.php on line 5
+[20-Feb-2023 04:10:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:11:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:11:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:11:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:12:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:12:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:12:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:13:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:13:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:13:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:13:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:13:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:13:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:14:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:14:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:14:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:14:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:14:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:14:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:14:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:14:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:15:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:15:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:15:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:16:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:17:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:17:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:17:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
+[20-Feb-2023 04:17:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\danie\Local Sites\daniel\app\public\wp-content\themes\daniel\index.php on line 1
